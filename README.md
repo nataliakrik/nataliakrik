@@ -18,7 +18,7 @@ ___
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-- 📫 How to reach me [nataliakrikelli@gmail.com](mailto:nataliakrikelli@gmail.com)
+- 📫 How to reach me <a href="mailto:nataliakrikelli\@gmail.com">nataliakrikelli\@gmail.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
