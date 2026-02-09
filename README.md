@@ -3,21 +3,22 @@
 </p>
 
 <h1 align="center">Hi, I'm Natalia</h1>
-<h3 align="center">I am a student in the department of informatics and telecommunications(NKUA)</h3>
 <p align="center">
   
 __________________________________________________________________________________________________
   
 </p>
+<h3 align="center">I am a student in the department of informatics and telecommunications(NKUA)</h3>
 
-- 🔭 I’m currently working on [an openGL project using C++](Private repository...)
+
+- 🔭 I’m currently working on an openGL project using C++
 
 - 🌱 I’m currently learning <code>openGL, TypeScript, etc. </code>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-- 📫 How to reach me <nataliakrikelli@gmail.com>
+- 📫 How to reach me < nataliakrikelli@gmail.com >
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
