@@ -5,8 +5,6 @@
 <h1 align="center">Hi, I'm Natalia</h1>
 <h3 align="center">I am a student in the department of informatics and telecommunications(NKUA)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nataliakrik" alt="nataliakrik" /></a> </p>
-
 - 🔭 I’m currently working on [an openGL project using C++](Private repository...)
 
 - 🌱 I’m currently learning **openGL, TypeScript **
