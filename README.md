@@ -13,7 +13,7 @@ ___
 
 - 🔭 I’m currently working on an openGL project using C++
 
-- 🌱 I’m currently learning <code>openGL, TypeScript, etc. </code>
+- 🌱 I’m currently learning <code> TypeScript </code>
 
 <h3 align="left">Connect with me:</h3>
 
