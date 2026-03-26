@@ -11,9 +11,9 @@ ___
 <h3 align="center">I am a student in the department of informatics and telecommunications(NKUA)</h3>
 
 
-- 🔭 I’m currently working on an openGL project using C++
+- 🔭 I’m currently working on Hugging Face Dataset to process natural language (using pandas , skilit-learn)
 
-- 🌱 I’m currently learning <code> TypeScript </code>
+- 🌱 I’m currently using <code> Python, Typescript </code>
 
 <h3 align="left">Connect with me:</h3>
 
