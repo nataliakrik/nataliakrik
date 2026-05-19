@@ -16,8 +16,8 @@ ___
 <p align="left">
 - 📫 <a href="mailto:nataliakrikelli@gmail.com">nataliakrikelli@gmail.com</a>
 </p>
-
-<h3 align="left">Languages </h3>
+<h2>I'm familiar with </h2>
+- <h3 align="left">Languages </h3>
 
 <p align="center">
   <img src="https://iconic-api.onrender.com/dark/c" width="48px" title="C"/>
@@ -32,7 +32,7 @@ ___
 </p>
 
 
-<h3 align="left">Tools </h3>
+- <h3 align="left">Tools </h3>
 
 
 <p align="center">
