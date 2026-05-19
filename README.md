@@ -21,22 +21,39 @@ ___
 - 📫 How to reach me <a href="mailto:nataliakrikelli@gmail.com">nataliakrikelli@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages </h3>
+
+<p align="center">
+  <img src="https://iconic-api.onrender.com/dark/c" width="64px" title="C"/>
+  <img src="https://iconic-api.onrender.com/dark/cpp" width="64px" title="C++"/>
+  <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python"/>
+  <img src="https://iconic-api.onrender.com/dark/typescript" width="64px" title="Typescript"/>
+  <img src="https://iconic-api.onrender.com/dark/js" width="64px" title="JavaScript"/>
+  <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML"/>
+  <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS"/>
+  <img src="https://iconic-api.onrender.com/dark/tailwind" width="48px" title="Tailwind CSS"/>
+  <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" title="MySQL"/>
+  <img src="https://iconic-api.onrender.com/dark/java" width="64px" title="JAVA"/>
+</p>
+
+
+<h3 align="left">Tools </h3>
 
 
 <p align="center">
-  <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python"/>
-  <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML"/>
-  <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS"/>
-  <img src="https://iconic-api.onrender.com/dark/markdown" width="48px" title="Markdown"/>
-  <img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git"/>
+  <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code"/>
+  <img src="https://iconic-api.onrender.com/dark/react" width="64px" title="React"/>
+  <img src="https://iconic-api.onrender.com/dark/linux" width="64px" title="Linux"/>
   <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub"/>
   <img src="https://iconic-api.onrender.com/dark/django" width="48px" title="Django"/>
   <img src="https://iconic-api.onrender.com/dark/tailwind" width="48px" title="Tailwind CSS"/>
-  <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code"/>
-  <img src="https://iconic-api.onrender.com/dark/github-actions" width="48px" title="GitHub Actions"/>
-  <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva"/>
+  <img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" title="MongoDB"/>
+  <img src="https://iconic-api.onrender.com/dark/google-colab" width="64px" title="Google Colab"/>
+  <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="64px" title="Sclit Learn"/>
+  <img src="https://iconic-api.onrender.com/dark/pandas" width="64px" title="Pandas"/>
+  <img src="https://iconic-api.onrender.com/dark/figma" width="64px" title="Figma"/>
   <img src="https://iconic-api.onrender.com/dark/notion" width="48px" title="Notion"/>
+  <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canvas"/>
 </p>
 
 
