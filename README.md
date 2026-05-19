@@ -11,14 +11,14 @@ ___
 <h3 align="center">I am a student in the department of informatics and telecommunications(NKUA)</h3>
 
 
----
+<h3></h3>
 
 <p align="left">
   
 - 🔭 I’m currently working on Hugging Face Dataset to process natural language (using pandas , skilit-learn)
 - 🌱 I’m currently using Python, Typescript
 - 📫 You can reach me at <a href="mailto:nataliakrikelli@gmail.com">nataliakrikelli@gmail.com</a>
-- 
+
 </p>
 
 <h2>I'm familiar with </h2>
