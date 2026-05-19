@@ -14,8 +14,11 @@ ___
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-- 📫 <a href="mailto:nataliakrikelli@gmail.com">nataliakrikelli@gmail.com</a>
+- 🔭 I’m currently working on Hugging Face Dataset to process natural language (using pandas , skilit-learn) 
+- 🌱 I’m currently using Python, Typescript 
+- 📫 reach me <a href="mailto:nataliakrikelli@gmail.com">nataliakrikelli@gmail.com</a> 
 </p>
+
 <h2>I'm familiar with </h2>
 
 - <h3 align="left">Languages </h3>
