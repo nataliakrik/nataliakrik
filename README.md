@@ -23,10 +23,23 @@ ___
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,django,figma,java,js,linux,mongodb,mysql,nextjs,nodejs,python,pytorch,react,sklearn,sqlite,ts)](https://skillicons.dev)
 
 <p align="center">
+  <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python"/>
+  <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML"/>
+  <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS"/>
+  <img src="https://iconic-api.onrender.com/dark/markdown" width="48px" title="Markdown"/>
+  <img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git"/>
+  <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub"/>
+  <img src="https://iconic-api.onrender.com/dark/django" width="48px" title="Django"/>
+  <img src="https://iconic-api.onrender.com/dark/tailwind" width="48px" title="Tailwind CSS"/>
+  <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code"/>
+  <img src="https://iconic-api.onrender.com/dark/github-actions" width="48px" title="GitHub Actions"/>
+  <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva"/>
+  <img src="https://iconic-api.onrender.com/dark/notion" width="48px" title="Notion"/>
+</p>
+
+
   
 ___
   
-</p>
