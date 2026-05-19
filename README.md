@@ -41,7 +41,7 @@ ___
 
 
 <p align="center">
-  <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code"/>
+  <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" label="VS Code"/>
   <img src="https://iconic-api.onrender.com/dark/react" width="48px" title="React"/>
   <img src="https://iconic-api.onrender.com/dark/linux" width="48px" title="Linux"/>
   <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub"/>
