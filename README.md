@@ -17,6 +17,7 @@ ___
 - 📫 <a href="mailto:nataliakrikelli@gmail.com">nataliakrikelli@gmail.com</a>
 </p>
 <h2>I'm familiar with </h2>
+
 - <h3 align="left">Languages </h3>
 
 <p align="center">
